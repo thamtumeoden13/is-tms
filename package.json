@@ -1,0 +1,22 @@
+{
+  "name": "@thamtumeoden13/is-tms",
+  "version": "1.0.0",
+  "description": "Is the string TMS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thamtumeoden13/is-tms.git"
+  },
+  "keywords": [
+    "TMS"
+  ],
+  "author": "BlackCat13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thamtumeoden13/is-tms/issues"
+  },
+  "homepage": "https://github.com/thamtumeoden13/is-tms#readme"
+}
